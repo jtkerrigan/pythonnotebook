@@ -1,2 +1,2 @@
 # pythonnotebook
-Python Notebook for Machine Learning Task
+Contains example of Python Notebook and RStudio Work.
